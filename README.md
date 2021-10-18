@@ -1,1 +1,5 @@
 # effective-waffle
+## first exercise 
+
+
+
